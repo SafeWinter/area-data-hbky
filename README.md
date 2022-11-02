@@ -1,8 +1,12 @@
-# area-data-mj
+# area-data-hbky
 
 
 
 河北省市区行政区划数据，用于 `JeecgBoot` 架构前端 `Antdv` 框架组件 `JAreaLinkage` 进行地区下拉联动展示。基于 `area-data` 模块改造，精确到区县级。
+
+## v1.0.1
+
+- 修复Bug：修复切换城市后，组件报错：“省份 13 不存在”的 bug
 
 ## v1.0.0
 
