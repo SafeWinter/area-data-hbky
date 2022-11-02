@@ -1,0 +1,13 @@
+{
+  "name": "area-data-hbky",
+  "main": "./data.js",
+  "description": "河北省、市、区/县地区数据",
+  "authors": "andong_2007@qq.com",
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!data.js",
+    "!LICENSE",
+    "!README.md"
+  ]
+}
